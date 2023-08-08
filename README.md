@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/iamsanjeebandas" target="blank"><img src="https://img.shields.io/twitter/follow/iamsanjeebandas?logo=twitter&style=for-the-badge" alt="iamsanjeebandas" /></a> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **Html, CSS and Js**
 
 - 📫 How to reach me **iamsanjeebandas@gmail.com**
 
-- ⚡ Fun fact **I love to code as well as edit videos**
+- ⚡ Fun fact **I love to code as well as edit videos and create content**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
