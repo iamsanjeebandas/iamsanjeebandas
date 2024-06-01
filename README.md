@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sanjeeban Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Html, CSS and Js**
+- 💬 Ask me about **MERN Stack, Html, CSS, Js and C++**
 
 - 📫 How to reach me **iamsanjeebandas@gmail.com**
 
