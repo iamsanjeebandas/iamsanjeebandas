@@ -29,7 +29,13 @@
 
 <img src="./assets/section-experience.svg" width="100%" alt="Where I've worked — Experience" />
 
-<img src="./assets/experience.svg" width="100%" alt="Learning Crew, Software Developer (Full-Stack), remote, Aug 2025 to Sep 2026: took an inherited MVP into live operation for a global automotive client; wrote a large share of the attendance and leave features for an internal HR platform; built a full-stack website end to end; 400+ commits; reference from the CEO available on request. EPAM Systems, Junior Software Engineer Intern, Sep 2024 to Jun 2025: Spring Boot microservices on AWS. SOA ITER, B.Tech in Computer Science and IT, CGPA 8.83, 2021 to 2025." />
+<img src="./assets/experience.svg" width="100%" alt="Learning Crew, Software Developer (Full-Stack), remote, Aug 2025 to Sep 2026: took an inherited MVP into live operation for a global automotive client; wrote a large share of the attendance and leave features for an internal HR platform; built a full-stack website end to end; 400+ commits; reference from the CEO available on request. EPAM Systems, Junior Software Engineer Intern, Sep 2024 to Jun 2025: Spring Boot microservices on AWS." />
+
+<br/>
+
+<img src="./assets/section-education.svg" width="100%" alt="Where I studied — Education" />
+
+<img src="./assets/education.svg" width="100%" alt="SOA ITER, Bhubaneswar: B.Tech in Computer Science and Information Technology, CGPA 8.83, 2021 to 2025." />
 
 <br/>
 
