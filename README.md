@@ -1,129 +1,57 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Sanjeeban Das — Early products, shipped and ready for real users. A full-stack engineer working in TypeScript, React, Node.js, and PostgreSQL, putting the same care into the parts users never see, like access control, data integrity, and testing, as into the accessible interfaces they do. Open to opportunities." />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D0F14,100:00C2FF&text=Sanjeeban%20Das&fontColor=E8E6DF&fontSize=58&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=60" alt="Sanjeeban Das — Full-Stack Software Engineer" />
+<p align="center">
+  <a href="https://iamsanjeebandas.com/Sanjeeban_Das_Resume.pdf"><img src="./assets/btn-resume.svg" height="46" alt="Download resume (PDF)" /></a>
+  <a href="https://iamsanjeebandas.com/contact"><img src="./assets/btn-call.svg" height="46" alt="Let's have a call" /></a>
+  <a href="https://iamsanjeebandas.com/work"><img src="./assets/btn-case-studies.svg" height="46" alt="Read case studies" /></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00C2FF&width=720&lines=Early+products%2C+shipped+and+ready+for+real+users.;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+ReciPure%2C+an+AI-assisted+recipe+app" alt="Early products, shipped and ready for real users." />
-
-<a href="https://iamsanjeebandas.com"><img src="https://img.shields.io/badge/Portfolio-iamsanjeebandas.com-00C2FF?style=for-the-badge&labelColor=0D0F14" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/iamsanjeebandas"><img src="https://img.shields.io/badge/LinkedIn-iamsanjeebandas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0F14" alt="LinkedIn" /></a>
-<a href="mailto:iamsanjeebandas@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-E8E6DF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0F14" alt="Email" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=iamsanjeebandas&label=Profile%20views&color=00C2FF&style=flat" alt="Profile views" />
-
-</div>
-
----
-
-## About me
-
-- 🧑‍💻 Full-stack software engineer with **~2 years of experience** shipping web platforms in **TypeScript, React, Node.js, and PostgreSQL**.
-- 💼 Most recently **Software Developer (Full-Stack)** at **Learning Crew**, a Seoul-based startup (remote), **Aug 2025 – Sep 2026**, with **400+ commits** across a client dealer-assessment platform and an internal HR platform.
-- 🛠️ Currently building **ReciPure**, an AI-assisted recipe app for iOS and Android (pre-launch).
-- 🎓 **B.Tech in Computer Science & IT** from SOA ITER, Bhubaneswar (CGPA 8.83).
-- 🤝 Open to **full-time roles, freelance projects, and development contracts**.
-- 💬 Ask me about **full-stack architecture, auth & RBAC, data integrity, API design, and AI features with guardrails**.
-
-## Featured work
-
-Most of my professional work is confidential client or internal software, so the code is private. The **case studies** on my portfolio walk through the architecture, decisions, and debugging instead.
-
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| **[Automotive Dealer Assessment Platform](https://iamsanjeebandas.com/work/automotive-dealer-assessment-platform)** | Full-stack developer on a dealer assessment tool for a global automotive client — took an inherited MVP into live operation with dealers worldwide | React · TypeScript · Express · MongoDB |
-| **[LCHR HR Platform](https://iamsanjeebandas.com/work/lchr-hr-platform)** | Core developer on an internal HR platform — attendance, leave, and access control closed before production | Next.js · Express · PostgreSQL · Redis |
-| **[Video Crew Portfolio](https://iamsanjeebandas.com/work/videocrew-portfolio)** | Solo build, concept to deployment — public portfolio site and admin CMS for an internal production team | React · Express · MongoDB |
-| **[ReciPure](https://iamsanjeebandas.com/work/recipure)** | Independent product (pre-launch) — AI recipe import with guardrails and a dual-path background job system | Expo · React Native · Express · Supabase |
-| **[IntelliDoc AI](https://iamsanjeebandas.com/work/intellidoc-ai)** | College project — PDF Q&A with a RAG pipeline and streaming responses | Next.js · LangChain · OpenAI · Pinecone |
-| **[Apartmnt](https://iamsanjeebandas.com/work/apartmnt)** | Real estate listing platform with search filtering and authentication | React · Express · MongoDB · Firebase |
-
-## Experience
-
-**Software Developer (Full-Stack)** · Learning Crew · *Aug 2025 – Sep 2026* · Remote
-- Took an inherited MVP into live operation for a global automotive client: assessment workflows, weighted scoring, reports, admin dashboard, JWT auth, and role-based access control.
-- Wrote a large share of the attendance and leave features for an internal HR platform; wrapped multi-step writes in transactions and closed access-control gaps before production.
-- Built a full-stack website end to end, from the public front end to the admin pages, and worked with the team in Korea on requirements, code review, deployment, and fixes.
-
-**Junior Software Engineer Intern** · EPAM Systems · *Sep 2024 – Jun 2025*
-- Built Spring Boot microservices (Spring Security/JWT, Hibernate, MongoDB/MySQL) on AWS in a 6-person agile backend team; wrote JUnit/Mockito tests and took part in code reviews.
-
-## Tech stack
-
-**Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=ts,js,java" alt="TypeScript, JavaScript, Java" />
 
-**Frontend & Mobile**
+<img src="./assets/about-this-github.svg" width="100%" alt="About this GitHub: most of my professional work lives in private company repositories, and the case studies on my portfolio cover the architecture, decisions, and debugging instead. Private: Automotive Dealer Assessment Platform (client, confidential), LCHR HR Platform (internal, Learning Crew), Video Crew Portfolio (internal, Learning Crew). Building: ReciPure (independent product). Public: Apartmnt (full-stack MERN app) and IntelliDoc AI (RAG prototype, college). 400+ commits across the two largest platforms are in private company repositories and not counted in the public graphs." />
+
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" alt="React, Next.js, Tailwind CSS, Redux" />
+
+<img src="./assets/section-work.svg" width="100%" alt="Selected work — Case studies" />
+
+<p align="center">
+  <a href="https://iamsanjeebandas.com/work/automotive-dealer-assessment-platform"><img src="./assets/card-automotive.svg" width="49%" alt="Automotive Dealer Assessment Platform — client, confidential. Took an inherited MVP into live operation for a global automotive client. React, TypeScript, Express, MongoDB. Read the case study." /></a>
+  <a href="https://iamsanjeebandas.com/work/recipure"><img src="./assets/card-recipure.svg" width="49%" alt="ReciPure — independent, pre-launch. AI-assisted iOS and Android recipe app. Expo, React Native, Supabase. Read the case study." /></a>
+  <a href="https://iamsanjeebandas.com/work/lchr-hr-platform"><img src="./assets/card-lchr.svg" width="49%" alt="LCHR HR Platform — internal, confidential. Core developer on attendance and leave. Next.js, PostgreSQL, Redis, Docker. Read the case study." /></a>
+  <a href="https://iamsanjeebandas.com/work/videocrew-portfolio"><img src="./assets/card-videocrew.svg" width="49%" alt="Video Crew Portfolio — internal, confidential. Solo build of a portfolio site and admin CMS. React, Express, MongoDB. Read the case study." /></a>
+  <a href="https://github.com/iamsanjeebandas/apartmnt"><img src="./assets/card-apartmnt.svg" width="49%" alt="Apartmnt — public, complete. Full-stack real estate listing platform. React, Express, MongoDB, Tailwind. View the code." /></a>
+  <a href="https://github.com/iamsanjeebandas/intellidoc-ai"><img src="./assets/card-intellidoc.svg" width="49%" alt="IntelliDoc AI — public, prototype. PDF Q&amp;A with a RAG pipeline. Next.js, LangChain, OpenAI, Pinecone. View the code." /></a>
+</p>
+
 <br/>
-<img src="https://img.shields.io/badge/React%20Native-0D0F14?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-0D0F14?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/TanStack%20Query-0D0F14?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
 
-**Backend**
+<img src="./assets/section-experience.svg" width="100%" alt="Where I've worked — Experience" />
+
+<img src="./assets/experience.svg" width="100%" alt="Learning Crew, Software Developer (Full-Stack), remote, Aug 2025 to Sep 2026: took an inherited MVP into live operation for a global automotive client; wrote a large share of the attendance and leave features for an internal HR platform; built a full-stack website end to end; 400+ commits; reference from the CEO available on request. EPAM Systems, Junior Software Engineer Intern, Sep 2024 to Jun 2025: Spring Boot microservices on AWS. SOA ITER, B.Tech in Computer Science and IT, CGPA 8.83, 2021 to 2025." />
+
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Node.js, Express, Spring Boot" />
-<br/>
-<img src="https://img.shields.io/badge/REST%20APIs-0D0F14?style=flat-square" alt="REST APIs" />
-<img src="https://img.shields.io/badge/JWT%20%26%20RBAC-0D0F14?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT and RBAC" />
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase" alt="PostgreSQL, MongoDB, Redis, MySQL, Supabase" />
+<img src="./assets/section-stack.svg" width="100%" alt="What I build with — Stack" />
 
-**Testing**
-<br/>
-<img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
-<br/>
-<img src="https://img.shields.io/badge/Supertest-0D0F14?style=flat-square" alt="Supertest" />
-<img src="https://img.shields.io/badge/JUnit-0D0F14?style=flat-square&logo=junit5&logoColor=25A162" alt="JUnit" />
-<img src="https://img.shields.io/badge/Mockito-0D0F14?style=flat-square" alt="Mockito" />
+<img src="./assets/engineering-depth.svg" width="100%" alt="Engineering depth: System Design, API Design, Database Design, Auth and RBAC, Caching and Performance, Automated Testing, Accessibility, AI Integration" />
 
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel" alt="Docker, AWS, GitHub Actions, Vercel" />
-<br/>
-<img src="https://img.shields.io/badge/Render-0D0F14?style=flat-square&logo=render&logoColor=white" alt="Render" />
-<img src="https://img.shields.io/badge/Sentry-0D0F14?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,tailwind,redux,nodejs,express,spring,postgres,mongodb,redis,mysql,supabase,jest,docker,aws,githubactions,vercel&perline=10" alt="TypeScript, JavaScript, Java, React, Next.js, Tailwind CSS, Redux, Node.js, Express, Spring Boot, PostgreSQL, MongoDB, Redis, MySQL, Supabase, Jest, Docker, AWS, GitHub Actions, Vercel" />
+</p>
 
-**AI**
-<br/>
-<img src="https://img.shields.io/badge/OpenAI%20API-0D0F14?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/LangChain-0D0F14?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Pinecone-0D0F14?style=flat-square" alt="Pinecone" />
-<img src="https://img.shields.io/badge/Structured%20outputs%20%26%20guardrails-0D0F14?style=flat-square" alt="Structured outputs and guardrails" />
+<sub>Also: React Native · Expo · TanStack Query · Supertest · JUnit · Mockito · Render · Sentry · OpenAI API · LangChain · Pinecone · Claude Code · Cursor</sub>
 
-**AI-assisted development**
-<br/>
-<img src="https://img.shields.io/badge/Claude%20Code-0D0F14?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Cursor-0D0F14?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+<br/><br/>
 
-## GitHub activity
+<img src="./assets/footer.svg" width="100%" alt="Sanjeeban Das · Full-Stack Software Engineer · Remote, India · iamsanjeebandas.com" />
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamsanjeebandas&show_icons=true&include_all_commits=true&hide_border=true&border_radius=8&bg_color=0D0F14&title_color=00C2FF&text_color=E8E6DF&icon_color=00C2FF" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsanjeebandas&layout=compact&langs_count=6&hide=html,css,ejs&hide_border=true&border_radius=8&bg_color=0D0F14&title_color=00C2FF&text_color=E8E6DF" alt="Top languages" />
-</div>
+<p align="center">
+  <a href="https://iamsanjeebandas.com"><img src="./assets/link-portfolio.svg" height="34" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/iamsanjeebandas"><img src="./assets/link-linkedin.svg" height="34" alt="LinkedIn" /></a>
+  <a href="mailto:iamsanjeebandas@gmail.com"><img src="./assets/link-email.svg" height="34" alt="Email" /></a>
+  <a href="https://x.com/iamsanjeebandas"><img src="./assets/link-x.svg" height="34" alt="X / Twitter" /></a>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=iamsanjeebandas&hide_border=true&border_radius=8&background=0D0F14&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=E8E6DF&currStreakNum=E8E6DF&sideNums=E8E6DF&dates=6B6F7A&stroke=1A1D27" alt="GitHub streak" />
-</div>
-
-<sub>Most of my professional commits live in private company repositories, so these public stats show only part of the picture.</sub>
-
-## Writing
-
-I write about building products, engineering, and careers on **[LinkedIn](https://linkedin.com/in/iamsanjeebandas)**. A selection is on my **[portfolio](https://iamsanjeebandas.com/content)**.
-
-## Let's connect
-
-<div align="center">
-
-<a href="https://iamsanjeebandas.com"><img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=0D0F14" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/iamsanjeebandas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:iamsanjeebandas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://x.com/iamsanjeebandas"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=110&color=0:00C2FF,100:0D0F14" alt="" />
-
-</div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=iamsanjeebandas&label=profile%20views&color=1A1D27&style=flat" alt="Profile views" /></p>
