@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D0F14,100:00C2FF&text=Sanjeeban%20Das&fontColor=E8E6DF&fontSize=58&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=60" alt="Sanjeeban Das — Full-Stack Software Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00C2FF&width=560&lines=Early+products%2C+shipped+and+ready+for+real+users.;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+ReciPure%2C+an+AI-assisted+recipe+app" alt="Early products, shipped and ready for real users." />
+<img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00C2FF&width=720&lines=Early+products%2C+shipped+and+ready+for+real+users.;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+ReciPure%2C+an+AI-assisted+recipe+app" alt="Early products, shipped and ready for real users." />
 
 <a href="https://iamsanjeebandas.com"><img src="https://img.shields.io/badge/Portfolio-iamsanjeebandas.com-00C2FF?style=for-the-badge&labelColor=0D0F14" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/iamsanjeebandas"><img src="https://img.shields.io/badge/LinkedIn-iamsanjeebandas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0F14" alt="LinkedIn" /></a>
